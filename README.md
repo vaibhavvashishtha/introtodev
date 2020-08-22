@@ -15,7 +15,7 @@
 		1. Repository name - introtodev<your-name>
 
 ## Starting towards development environment setup
-### Source code management
+###Source code management
 1. Install git scm
 	1. Download git from [https://git-scm.com/downloads]
 	2. Install git scm from the installer
@@ -52,4 +52,11 @@
 	1. Click on Add Folder to workspace
 		(img)
 	2. Add the folder that holds the code that we cloned in earlier steps
-	3. You will be able to see the code and in visual studio code and some more data on different bars in visual studio code
+	3. You will be able to see the code in visual studio code 
+3. Update file and commit code
+	1. Open the Readme.md file
+	2. Write your name inside the file
+	3. Click on the github extension icon in the left bar 
+	4. Add a message explaining your changes and click on the tick icon to commit code
+	5. Push the update code to the remote repository in github
+	6. Validate if the changes are available in the remote repository
