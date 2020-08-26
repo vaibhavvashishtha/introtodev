@@ -12,26 +12,26 @@
 	2. Register with your email ids
 	3. Login in to [https://github.com/]
 	4. Create repository 
-		1. Repository name - introtodev<your-name>
+		1. Repository name - 'introtodev<your-name>'
 
 ## Starting towards development environment setup
-###Source code management
+### Source code management
 1. Install git scm
 	1. Download git from [https://git-scm.com/downloads]
 	2. Install git scm from the installer
 	3. Open command prompt in Windows and terminal in MacOS and run the following command to make sure git is installed
+		``
 		git --version
+		``
 2. Get the code from github to your local development machine
-	1. Login in to your github account and move to the repository that you just created in the earlier steps 
+	1. Login in to your github account and move to the repository that you just created in the earlier steps
 	2. Click on the button named Code
-(img)
-	3. Copy the URL that is provided in the sub menu that opens up and we will call it <path-to-repository>
+	3. Copy the URL that is provided in the sub menu that opens up and we will call it <path-to-repository>, to be used in step 6
 	4. Create a local directory structure in you development machine
 		1. Windows - <drive>\\Mages\\FSDP
 		2. MacOS - <user-directory>/Mages/FSDP
 	5. Open command prompt for Windows and terminal for MacOS
 	6. In the command prompt / terminal, move to the directory we created in the earlier step no. 4 and run the following command; the process is called **cloning** / checking out code
-	
 		``
 		git clone <path-to-repository>
 		``
