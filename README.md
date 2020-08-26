@@ -31,7 +31,10 @@
 		2. MacOS - <user-directory>/Mages/FSDP
 	5. Open command prompt for Windows and terminal for MacOS
 	6. In the command prompt / terminal, move to the directory we created in the earlier step no. 4 and run the following command; the process is called **cloning** / checking out code
+	
+		``
 		git clone <path-to-repository>
+		``
 3. Download github desktop
 	1. Since we will have our repository in github, we may want to have a visual tool for managing the same
 	2. Download github desktop from [https://desktop.github.com/]
